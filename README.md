@@ -5,7 +5,7 @@
 ```
 
 ### sinatra
-簡単にWebアプリを作るrubyのライブラリ
+簡単にWebアプリを作るrubyのライブラリ 
 https://github.com/sinatra
 
 ```
