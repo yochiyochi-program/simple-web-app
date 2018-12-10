@@ -17,3 +17,6 @@ gem install sinatra
 ```
 ruby app.rb
 ```
+
+## IPアドレス確認
+システム環境設定 > ネットワークの設定 
