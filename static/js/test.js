@@ -34,5 +34,8 @@ function onClick() {
     console.log('click');
     document.getElementById("content").textContent = args[count];
     count++;
+    if (count > 20) {
+        count = 0;
+    };
 }
 // alert(args[0])
